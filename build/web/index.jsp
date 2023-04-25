@@ -14,7 +14,7 @@
     </head>
     <body>
         <h1>Registro de Personas</h1>
-        <a href="MainController?op=nuevo">Nuevo</a>
+        <a href="MainController?op=nuevo">Agregar Nuevos</a>
         <table border="1">
             <tr>
                 <th>Id</th>
