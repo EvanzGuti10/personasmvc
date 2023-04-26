@@ -15,6 +15,8 @@
     <body>
         <h1>Registro de Personas</h1>
         <a href="MainController?op=nuevo">Agregar Nuevos</a>
+        <h2>Slider1</h2>
+        <h2>Slider2</h2>
         <table border="1">
             <tr>
                 <th>Id</th>
